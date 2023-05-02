@@ -26,14 +26,10 @@ A full-stack e-commerce website designed using Figma and built using Next.js, Ne
 
 ## Demo
 
-https://radon.vercel.app
-
-
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/C7nCj5K/radon.gif)
 
-  
 ## Features
 
 - Responsive
